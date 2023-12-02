@@ -1,4 +1,7 @@
-# e_commerce
+
+# E_commerce App for Modern Login & Registration UI
+![Modern App For Login and Registration](https://github.com/GJSanka10/Flutter_Logging_Registration/assets/121654570/5be4504b-7dfc-48b5-92af-fe9276d2e79c)
+
 
 A new Flutter project.
 
